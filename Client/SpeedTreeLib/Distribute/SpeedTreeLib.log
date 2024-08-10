@@ -1,0 +1,12 @@
+﻿  StdAfx.cpp
+  BoundaryShapeManager.cpp
+  SpeedGrassRT.cpp
+c1xx : fatal  error C1083: Nie można otworzyć pliku źródło: 'SpeedGrassRT.cpp': No such file or directory
+  SpeedGrassWrapper.cpp
+c1xx : fatal  error C1083: Nie można otworzyć pliku źródło: 'SpeedGrassWrapper.cpp': No such file or directory
+  SpeedTreeForest.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  SpeedTreeForestDirectX8.cpp
+c1xx : fatal  error C1083: Nie można otworzyć pliku źródło: 'SpeedTreeForestDirectX8.cpp': No such file or directory
+  SpeedTreeWrapper.cpp
+  Generowanie kodu...

@@ -1,0 +1,13 @@
+﻿  Stdafx.cpp
+  SoundBase.cpp
+  SoundData.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  SoundInstance2D.cpp
+  SoundInstance3D.cpp
+  SoundInstanceStream.cpp
+  SoundManager.cpp
+  SoundManager2D.cpp
+  SoundManager3D.cpp
+  SoundManagerStream.cpp
+  Type.cpp
+  Generowanie kodu...

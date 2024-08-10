@@ -1,0 +1,1 @@
+#define CLIENT_VERSION 1100

@@ -1,0 +1,20 @@
+﻿  StdAfx.cpp
+  EffectData.cpp
+  EffectElementBase.cpp
+  EffectElementBaseInstance.cpp
+  EffectInstance.cpp
+  EffectManager.cpp
+  EffectMesh.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  EffectMeshInstance.cpp
+  EffectUpdateDecorator.cpp
+  EmitterProperty.cpp
+  FrameController.cpp
+  ParticleInstance.cpp
+  ParticleProperty.cpp
+  ParticleSystemData.cpp
+  ParticleSystemInstance.cpp
+  SimpleLightData.cpp
+  SimpleLightInstance.cpp
+  Type.cpp
+  Generowanie kodu...

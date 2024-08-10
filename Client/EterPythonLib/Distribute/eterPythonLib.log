@@ -1,0 +1,21 @@
+﻿  StdAfx.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(534,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(553,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(575,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(593,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(173,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(174,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(175,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+  PythonGridSlotWindow.cpp
+  PythonSlotWindow.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\repeat.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  PythonWindow.cpp
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+  PythonGraphic.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Code\eterPythonLib\PythonGraphic.cpp(360,5): warning C4838: konwersja z „int” do „unsigned char” wymaga konwersji zawężającej
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+  Generowanie kodu...

@@ -1,0 +1,43 @@
+#pragma once
+#include <map>
+#include "stdafx.h"
+static std::map<std::string, std::string> CryptedModules =
+{
+	{"ui", "xaJoWphRFv"},
+	{"player", "VVQA3lxpKe"},
+	{"chrmgr", "vKzhxipo9y"},
+	{"app", "z1WIGTrDuK"},
+	{"background", "im4pH8tzUG"},
+	{"chmgr", "aiRfK7sOMX"},
+	{"chr", "jZfp3MCfqZ"},
+	{"chat", "B6Jnv6oN46"},
+	{"effect", "tDHO52hWkN"},
+	{"event", "uN5QYdwopL"},
+	{"exchange", "y98brkGgfL"},
+	{"eventMgr", "ErphOHu15k"},
+	{"guild", "xNlgvmAks7"},
+	{"ime", "rtpCgmFhMi"},
+	{"item", "doVth3lV61"},
+	{"messenger", "eIYy8krZY3"},
+	{"miniMap", "dye3xRs6bM"},
+	{"net", "ZQLtuSMSSQ"},
+	{"nonplayer", "pnV5q6uAzH"},
+	{"offlineshop", "N7mfm5R1em"},
+	{"offlineshop_storage", "zlbf7leDLx"},
+	{"pack", "SOE8o7j3t9"},
+	{"profiler", "si2sD26zMA"},
+	{"quest", "m8QyPrFVJ5"},
+	{"safebox", "mjiWW1S2Rt"},
+	{"shop", "PSmtJzsXY2"},
+	{"skill", "VNXKdoHIB2"},
+	{"snd", "yXMjqI5Mnx"},
+	{"systemSetting", "OGSBM7H14c"},
+	{"textTail", "cByOdjIsYZ"},
+	{"ServerStateChecker", "ye5MESvvMM"},
+	{"grpImage", "NVsvCD5dkh"},
+	{"grp", "pXgWolgFLv"},
+	{"grpText", "KbRXKbmLMb"},
+	{"grpThing", "aVyCSK17Ox"},
+	{"wndMgr", "J9bvPJ667F"},
+};
+

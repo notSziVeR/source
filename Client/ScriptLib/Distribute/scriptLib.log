@@ -1,0 +1,18 @@
+﻿  StdAfx.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(534,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(553,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(575,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\unicodeobject.h(593,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(173,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(174,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Extern\Python2\stringobject.h(175,14): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+  PythonDebugModule.cpp
+  PythonLauncher.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  PythonMarshal.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Code\scriptLib\PythonMarshal.cpp(65,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Code\scriptLib\PythonMarshal.cpp(75,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Code\scriptLib\PythonMarshal.cpp(76,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+  PythonUtils.cpp
+  Resource.cpp
+  Generowanie kodu...

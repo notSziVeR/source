@@ -1,0 +1,24 @@
+﻿  Base.cpp
+  Poly.cpp
+  Symbol.cpp
+  SymTable.cpp
+  cipher.cpp
+  CPostIt.cpp
+  CRC32.cpp
+  Debug.cpp
+  error.cpp
+  FileBase.cpp
+  FileDir.cpp
+  FileLoader.cpp
+  lzo.cpp
+  MappedFile.cpp
+  Random.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterBase\Random.cpp(19,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+  StdAfx.cpp
+  Stl.cpp
+  tea.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterBase\tea.cpp(13,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterBase\tea.cpp(30,11): warning C5033: Element „register” nie jest już obsługiwaną klasą magazynu
+  TempFile.cpp
+  Timer.cpp
+  Generowanie kodu...

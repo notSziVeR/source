@@ -1,0 +1,10 @@
+#ifndef METIN2_SERVER_GAME_CHARUTIL_HPP
+#define METIN2_SERVER_GAME_CHARUTIL_HPP
+class CHARACTER;
+
+
+bool Unmount(CHARACTER* ch);
+bool Mount(CHARACTER* ch);
+
+#endif
+

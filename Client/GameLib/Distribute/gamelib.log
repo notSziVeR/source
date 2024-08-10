@@ -1,0 +1,27 @@
+﻿  StdAfx.cpp
+  ActorInstance.cpp
+  ActorInstanceAttach.cpp
+  ActorInstanceBattle.cpp
+  ActorInstanceBlend.cpp
+  ActorInstanceCollisionDetection.cpp
+  ActorInstanceData.cpp
+  ActorInstanceEvent.cpp
+  ActorInstanceFly.cpp
+  ActorInstanceMotion.cpp
+  ActorInstanceMotionEvent.cpp
+  ActorInstancePosition.cpp
+  ActorInstanceRender.cpp
+  ActorInstanceRotation.cpp
+  ActorInstanceSync.cpp
+  ActorInstanceWeaponTrace.cpp
+  DungeonBlock.cpp
+  PhysicsObject.cpp
+  RaceData.cpp
+  RaceDataFile.cpp
+  RaceManager.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  Generowanie kodu...
+  Trwa kompilowanie...
+  RaceMotionData.cpp
+  WeaponTrace.cpp
+  Area.cpp

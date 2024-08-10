@@ -1,0 +1,6 @@
+﻿  EterPack.cpp
+  EterPackCursor.cpp
+  EterPackManager.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  EterPackPolicy_CSHybridCrypt.cpp
+  StdAfx.cpp

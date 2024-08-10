@@ -1,0 +1,81 @@
+﻿  StdAfx.cpp
+  AttributeData.cpp
+  AttributeInstance.cpp
+  Camera.cpp
+  CollisionData.cpp
+  ColorTransitionHelper.cpp
+  CWikiRenderTarget.cpp
+  CWikiRenderTargetManager.cpp
+  Decal.cpp
+  EnvironmentMap.cpp
+  FileLoaderThread.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  GrpCollisionObject.cpp
+  GrpColor.cpp
+  GrpColorInstance.cpp
+  GrpD3DXBuffer.cpp
+  GrpDIB.cpp
+  GrpIndexBuffer.cpp
+  GrpLightManager.cpp
+  GrpObjectInstance.cpp
+  GrpPixelShader.cpp
+  GrpRatioInstance.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  GrpRenderTarget.cpp
+  GrpShadowTexture.cpp
+  GrpVertexBuffer.cpp
+  GrpVertexBufferDynamic.cpp
+  GrpVertexBufferStatic.cpp
+  GrpVertexShader.cpp
+  GrpWikiRenderTargetTexture.cpp
+  Input.cpp
+  LensFlare.cpp
+  lineintersect_utils.cpp
+  MSApplication.cpp
+  MSWindow.cpp
+  Mutex.cpp
+  parser.cpp
+  PathStack.cpp
+  ReferenceObject.cpp
+  ScreenFilter.cpp
+  SkyBox.cpp
+  TargaResource.cpp
+  Thread.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Util.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  CullingManager.cpp
+  GrpBase.cpp
+  GrpDetector.cpp
+  GrpDevice.cpp
+  GrpMath.cpp
+  GrpScreen.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterLib\GrpScreen.cpp(747,45): warning C4838: konwersja z „UINT” do „LONG” wymaga konwersji zawężającej
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterLib\GrpScreen.cpp(748,65): warning C4838: konwersja z „UINT” do „LONG” wymaga konwersji zawężającej
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterLib\GrpScreen.cpp(748,105): warning C4838: konwersja z „UINT” do „LONG” wymaga konwersji zawężającej
+C:\Users\flourine\Desktop\Xantios\client-src\Code\EterLib\GrpScreen.cpp(750,77): warning C4838: konwersja z „UINT” do „LONG” wymaga konwersji zawężającej
+  JpegFile.cpp
+  StateManager.cpp
+  Resource.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  ResourceManager.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  GrpExpandedImageInstance.cpp
+  GrpImage.cpp
+  GrpImageInstance.cpp
+  GrpImageTexture.cpp
+C:\Users\flourine\Desktop\Xantios\client-src\extern\include\boost\preprocessor\repetition\enum.hpp(19,11): fatal  error C1083: Nie można otworzyć pliku dołącz: 'boost/preprocessor/debug/error.hpp': No such file or directory
+  GrpMarkInstance.cpp
+  GrpSubImage.cpp
+  GrpTexture.cpp
+  NetAddress.cpp
+  NetDatagram.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  NetDatagramReceiver.cpp
+  NetDatagramSender.cpp
+  NetDevice.cpp
+  NetPacketHeaderMap.cpp
+  NetStream.cpp
